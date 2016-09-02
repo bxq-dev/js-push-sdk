@@ -1,0 +1,17 @@
+{
+  "name": "leancloud-push.js",
+  "version": "2.0.4",
+  "keywords": [
+    "LeanCloud",
+    "Push"
+  ],
+  "author": "WangXiao <xwang@leancloud.rocks>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slene/js-push-sdk.git"
+  },
+  "engines": {
+    "node": ">= 4.2.1",
+    "npm": ">= 3"
+  }
+}
